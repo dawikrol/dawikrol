@@ -7,7 +7,7 @@
   I started learn programing on my univeristy courses but serious learing started in March when I meet Python.
   
   
-- 🌱 Now I’m developing myself in area Data Science / Data Analysis
+- 🌱 Now I’m developing myself in area related to Data Science / Data Analysis.
 
 - 💞️ I am currently looking for my internship / junior position where I will able to develop my Python in a business environment.
 
