@@ -9,7 +9,7 @@
   
 - 🌱 Now I’m developing myself in area related to Data Science / Data Analysis.
 
-- 💞️ I am currently looking for my internship / junior position where I will able to develop my Python in a business environment.
+- 💞️ I am currently looking for my internship / junior position where I will able to develop my Python's knowledge in practise.
 
 - 📫 How to reach me: https://www.linkedin.com/in/krol-dawid/
 
